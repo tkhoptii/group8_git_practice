@@ -1,4 +1,4 @@
-package Iliyana1309;
+package iliyana1309;
 
 public class iliyana_project {
     public static void main(String[] args) {
